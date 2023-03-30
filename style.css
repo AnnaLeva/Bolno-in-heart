@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+.navbar-nav {
+    padding-left: 5%;
+}
+.col-sm-8 {
+    left: 14.72%;
+    right: 37.01%;
+    top: 3.4%;
+    bottom: 94.73%;
+}
+.p {
+    position: absolute;
+    left: 14.72%;
+    right: 37.36%;
+    top: 5.27%;
+    bottom: 93.62%;
+}
+
+section {
+    padding-top: 10%;
+}
